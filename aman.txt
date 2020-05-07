@@ -1,0 +1,9 @@
+<span id="b">cat shivamdurgbuns.txt
+******************************************************
+Hey hii! Let me first welcome you to my portfolio page.
+You can introduce yourself here.
+You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.
+Tell more about yourself.Give your project links or something like that. <a href="link"> Here you go</a>.
+You can give links to other professional profiles you have on Internet, here:  <a  href="link1">Profile1</a> <a href="link2">Profile2</a> and <a href="link3">Profile3</a>.
+You can also give your email ID for contacting you, feel free to send me an email at<a href="shivamdurgbuns@gmail.com">Email</a>.
+Cheers!</span>
