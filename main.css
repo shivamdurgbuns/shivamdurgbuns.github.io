@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Cantarell&display=swap");
+
+body {
+    background-color: black;
+    color: #ddd;
+    font-family: 'Cantarell', sans-serif;
+    word-spacing: -1px;
+    margin-top: -1px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top:0.1%;
+}
+
+.title {
+    color: turquoise;
+}
+
+#console {
+    color: white;
+    font-size: 14px;
+}
+
+a {
+    color: #0bc;
+}
+
+#a {
+    color: chartreuse;
+}
+
+#b {
+    color: white;
+    
+}
+
+#c {
+    color: #0bc;
+}
+
+#quote {
+    animation: change 1s;
+}
+
+#op {
+    color: #888888;
+}
+
+@keyframes change {
+    0% {color: yellow}
+    50%{color: yellow}
+    99%{color: black}
+}
