@@ -1,9 +1,12 @@
 <span id="b">cat shivamdurgbuns.txt
-
+******************************************************
 Hey hii! Let me first welcome you to my portfolio page.
-You can introduce yourself here.
-You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.
-Tell more about yourself.Give your project links or something like that. <a href="link"> Here you go</a>.
-You can give links to other professional profiles you have on Internet, here:  <a  href="link1">Profile1</a> <a href="link2">Profile2</a> and <a href="link3">Profile3</a>.
+As you can see with this page I am more of a commandline person, I like doing things more in CLI way than using GUI.
+Currently I am employeed at Capgemini, and am working here as Automation Engineer with 1.5+ years of experience.
+I have been doing Python since my college days and its like my goto language if want to develope anything.
+I work on servers daily and have a good experience with them, I have knowledege about SUSE servers, ESxi Hosts, their administrations patching, upgrading.
+I have knowledge about Docker, git,Powershell and various different tools like this. Basically I just try to learn different things and try to know how the world works.
+I will be updating more about my skills and experiences over here, so feel free to come and check on this site again.
+You can find my Linkdein profile on Internet, here:  <a  href="www.linkedin.com/in/shivam-durgbuns">Shivam Durgbuns</a>.
 You can also give your email ID for contacting you, feel free to send me an email at<a href="shivamdurgbuns@gmail.com">Email</a>.
-Cheers!</span>
+Maze kro!</span>
