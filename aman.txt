@@ -2,9 +2,9 @@
 
 Hey hii! Let me first welcome you to my portfolio page.
 As you can see with this page I am more of a commandline person, I like doing things more in CLI way than using GUI.
-Currently I am employeed at Capgemini, and am working here as Automation Engineer with 1.5+ years of experience.
+Currently I am employed at Capgemini, and am working here as Automation Engineer with 1.5+ years of experience.
 I have been doing Python since my college days and its like my goto language if want to develope anything.
-I work on servers daily and have a good experience with them, I have knowledege about SUSE servers, ESxi Hosts, their administrations patching, upgrading.
+I work on servers daily and have a good experience with them, I have knowledege about SUSE servers, ESXi Hosts, their administrations patching, upgrading.
 I have knowledge about Docker, git, Powershell and various different tools like this. Basically I just try to learn different things and try to know how the world works.
 I will be updating more about my skills and experiences over here, so feel free to come and check on this site again.
 You can find my Linkdein profile on Internet, here:  <a  href="https://www.linkedin.com/in/shivam-durgbuns">Shivam Durgbuns</a>.
